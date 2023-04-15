@@ -1,0 +1,151 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    }
+    .toparea{
+        width:100%;
+        height:110px;
+        background:white;
+    
+    
+        }
+        .logo{
+            width:40%;
+            height:110px;
+            padding-left:80px;
+        }
+            .logo img{
+            height:108px;
+            margin:1px 0;
+            border-radius:50%;
+            }
+
+            .title{
+                width:60%;
+                height:110px;
+                padding-top: 10px;
+                float:left;
+            }
+                .title img{
+                height:80px;
+                margin:10px 0;
+               
+                }
+            
+                .menuarea{
+                    width:100%;
+                    height:30px;
+                    float:left;
+                }
+                
+                .fix{
+                    width:100%;
+                    height:65px;
+                    float:left;
+                    position:sticky;
+                    padding-top:4px;
+                    z-index:1000;
+                    font-weight: 1000;
+                    background-color: #1072BA;
+                }
+                .slidearea{padding-bottom:25px;}
+                .slidearea img{
+                    height:400px;
+                    width:1190px;
+                }
+
+
+                body {
+                    font-family: 'Montserrat', sans-serif;
+                    transition: 3s;
+                  }
+                  
+                  .login-container {
+                    margin: 5% 0;
+                    border: 1px solid #CCD1D1;
+                    border-radius: 5px;
+                    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+                    max-width: 50%;
+                  }
+                  
+                  .ads {
+                    background-color: #39393a;
+                    border-top-left-radius: 5px;
+                    border-bottom-left-radius: 5px;
+                    color: #fff;
+                    padding: 15px;
+                    text-align: center;
+                  }
+                  
+                 .ads img{
+                    width:100%;
+                    height:100%;
+                    margin:0;
+                    padding:0;
+                 }
+                  
+              
+
+                  .profile-img {
+                    text-align: center;
+                  }
+                  
+                  .profile-img img {
+                    border-radius: 50%;
+                    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+                    /* animation: mymove 2s infinite; */
+                  }
+                  
+                  @keyframes mymove {
+                    from {border: 1px solid #F2F3F4;}
+                    to {border: 8px solid #F2F3F4;}
+                  }
+                  
+                  .login-form {
+                    padding: 15px;
+                  }
+                  
+                  .login-form h2 {
+                    text-align: center;
+                    padding-top: 15px;
+                    padding-bottom: 15px;
+                    
+                  }
+                  
+                  .form-check form-check-inline {
+                    padding-left:30px;
+                  }
+                  .form-check form-check-inline p{
+                    text-align: center;
+                    font-weight: 200;
+                    margin:10 10;
+                    
+                  }
+                  .form-control {
+                    font-size: 14px;
+                  }
+                  
+                  .forget-password a {
+                    font-weight: 500;
+                    text-decoration: none;
+                    font-size: 14px;
+                  }
+                  
+                  .lastarea{
+                    background-color:rgba(17, 17, 17, 0.849);
+                    color:white;
+                }
+                    .reach{padding:20px;height:430px;}
+                    .reach h1{padding-bottom:20px;}
+                    .reach hr{color:blue;}
+                    .box:hover {
+                        transition: all 1s;
+                    transform: scale(1.1,1.1);
+                        box-shadow: 10px 10px 10px black;
+                    }
+
+
+  
+ 
